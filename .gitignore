@@ -1,0 +1,10 @@
+# See https://help.github.com/articles/ignoring-files for more about ignoring files.
+
+# Ignore IDE files
+/.idea
+/.metadata
+/.project
+/nbproject
+
+# Ignore OS-specific files
+.DS_Store
